@@ -20,7 +20,7 @@ Obrigado pelo seu interesse em fazer parte do nosso time.
 
 ### Sobre o ambiente da aplicação:
 
-- Escolha qualquer framework da sua preferência, temos como sugestão NestJS, mas se sinta a vontade para escolher. Só que buscaremos medir é sua capacidade de resolver problemas seu código.
+- Escolha qualquer framework da sua preferência, temos como sugestão NestJS, mas se sinta a vontade para escolher. O que buscaremos medir é sua capacidade de resolver problemas e seu código.
 
 - Poderá optar por não usar um framework caso deseje. Valorizamos uma boa estrutura e um bom uso de padrões no seu projeto.
 
